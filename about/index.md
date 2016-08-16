@@ -1,37 +1,14 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Mycelial Cords
+tags: [about, Mycelial Cords, Propellerhead Reason, SuperCollider, blog, music producer, electronic music]
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Mycelial Cords Music Blog is a place where I post tips and insights about music production, as well as information about my releases and what I am up to. Expect sound design ideas, Reason patches, SuperCollider code, free loops and samples. The scope is always open for expansion it all depends on my musical progress. 
 
-## Preview
+As a Hip-Hop and Electronic Music enthusiast my music is a combination of both worlds. Other than that I am also heavily inspiried by African and Indian music and abstract ideas. To paint a better picture here are some artists I relish listening to: Shpongle, Monolake, Terrafractyl, Mac Miller, Flying Lotus, Drake, Tool, Rishloo, Aphex Twin, Squarepusher, Tim Hecker, Tech N9ne, ANKA, Younger Brothers, Dhafer Youseff. It is hard to pin point exactly what has shaped me and my music so I'll leave you with that. 
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+Finally, feel free to contact me in case you want to collaborate, want to talk or need some help. 
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+### Mycelial Cords
