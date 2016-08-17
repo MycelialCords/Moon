@@ -1,9 +1,11 @@
 ---
-published: false
+published: true
 ---
 ---
-layout: page
-title: Delay Tips and Tricks 001 - Automation
+layout: post
+date: 2016-08-19
+title: "Delay Tips and Tricks 001 - Automation"
+excerpt: "There are times when sounds that used to excite you are dull"
 tags: [delay, music production, automation, electronic music, tutorial, free loops, free samples]
 comments: true
 ---
