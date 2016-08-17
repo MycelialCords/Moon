@@ -1,10 +1,10 @@
 ---
-published: true
+published: false
 ---
 ---
 
 layout: post
-title: Delay Tips and Tricks 001: Parameter Automation
+title: Delay Tips and Tricks 001 - Automation
 
 ---
 
