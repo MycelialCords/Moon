@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Delay Tips and Tricks 001
 ### Parameter Automation
