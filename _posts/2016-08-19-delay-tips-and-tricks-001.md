@@ -11,19 +11,24 @@ published: true
 ___
 
 **First** of all, let's start with something simple – sine wave beeping at 440Hz every bar.
- 
 <audio controls preload="none"
 oncontextmenu="event.preventDefault()">		
 <source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHoU0ptMXZGQnhzcjQ" type="audio/wav">
 </audio>
 
 **After** inserting delay and making my computer move knobs with its invisible hand this is what I got. 
-/Sound Example/
+<audio controls preload="none"
+oncontextmenu="event.preventDefault()">		
+<source src="https://drive.google.com/open?id=0BxDTpmbDjqHoT00zamxONHp1YVE" type="audio/wav">
+</audio>
 And with precise numbers 
 /Screenshot with numbers/
 
 **For** variety, I also did a second take modulating same parameters.
-/Sound Example/
+<audio controls preload="none"
+oncontextmenu="event.preventDefault()">		
+<source src="https://drive.google.com/open?id=0BxDTpmbDjqHodTJ0SXBnVW0wLUk" type="audio/wav">
+</audio>
 /Screenshot with numbers/
 
 **Nice** and simple, but what will happen with more complex examples? Let's have a look at drums, pad, and bass with the same automation and see what happens.
