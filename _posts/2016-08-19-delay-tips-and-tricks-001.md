@@ -1,10 +1,18 @@
 ---
 layout: post
-title: "Delay Tips and Tricks 001 - Automation"
-date: 2016-08-19
-excerpt: "testest123"
-tags: [delay, music production, automation, electronic music, tutorial, free loops, free samples]
+title: Delay Tips and Tricks 001 - Automation
+date: {}
+excerpt: testest123
+tags:
+  - delay
+  - music production
+  - automation
+  - electronic music
+  - tutorial
+  - free loops
+  - free samples
 comments: true
+published: false
 ---
 
 **There** are times when sounds that used to excite you are dull, they lost their spark and now you're on the way to become the next black dwarf. There's no way to fix every problem with the same remedy, hence I just hope that this simple idea will spark.
