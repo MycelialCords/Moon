@@ -19,7 +19,7 @@ oncontextmenu="event.preventDefault()">
 **After** inserting delay and making my computer move knobs with its invisible hand this is what I got. 
 <audio controls preload="none"
 oncontextmenu="event.preventDefault()">		
-<source src="https://drive.google.com/open?id=0BxDTpmbDjqHoT00zamxONHp1YVE" type="audio/wav">
+<source src="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHoT00zamxONHp1YVE" type="audio/wav">
 </audio>
 And with precise numbers 
 /Screenshot with numbers/
@@ -27,7 +27,7 @@ And with precise numbers
 **For** variety, I also did a second take modulating same parameters.
 <audio controls preload="none"
 oncontextmenu="event.preventDefault()">		
-<source src="https://drive.google.com/open?id=0BxDTpmbDjqHodTJ0SXBnVW0wLUk" type="audio/wav">
+<source src="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHodTJ0SXBnVW0wLUk" type="audio/wav">
 </audio>
 /Screenshot with numbers/
 
