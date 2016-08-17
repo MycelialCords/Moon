@@ -17,6 +17,13 @@ oncontextmenu="event.preventDefault()">
 <source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHoU0ptMXZGQnhzcjQ" type="audio/wav">
 </audio>
 
+<center>
+<iframe height="100" src="https://docs.google.com/a/wlavikings.org/file/d/0BxDTpmbDjqHoU0ptMXZGQnhzcjQ/preview" width="300">
+</iframe>
+</center>
+ 
+ https://drive.google.com/file/d/0BxDTpmbDjqHoU0ptMXZGQnhzcjQ/view?usp=sharing
+
 **After** inserting delay and making my computer move knobs with its invisible hand this is what I got. 
 /Sound Example/
 And with precise numbers 
