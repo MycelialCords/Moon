@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 ## Delay Tips and Tricks 001
 ### Parameter Automation
@@ -21,6 +21,7 @@ oncontextmenu="event.preventDefault()">
 oncontextmenu="event.preventDefault()">		
 <source src="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHoT00zamxONHp1YVE" type="audio/wav">
 </audio>
+
 And with precise numbers 
 /Screenshot with numbers/
 
@@ -36,12 +37,6 @@ oncontextmenu="event.preventDefault()">
 /Durms/ 
 /Pad/
 /Bass/
-
-**In** my humble opinion, it didn't work for the low end so let me move some boxes around.
-
-/Bass/
-
-**Much better.**
 
 **Automation** by itself isn't anything new but at the same time, possibilities are pretty much endless. So I hope that sharing these examples inspired somebody to use a delay (or any other effect) in a new way. I'm eager to hear your creations. 
 
