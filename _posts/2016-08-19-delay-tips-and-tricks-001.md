@@ -40,9 +40,7 @@ oncontextmenu="event.preventDefault()">
 </audio>
 
 **That's** how it looks on the screen.
-<figure>
-	<a href="https://drive.google.com/file/d/0BxDTpmbDjqHod0I5ampxTjJ0X1U/"><img src="https://drive.google.com/file/d/0BxDTpmbDjqHod0I5ampxTjJ0X1U/"></a>
-</figure>
+<img src="https://drive.google.com/file/d/0BxDTpmbDjqHod0I5ampxTjJ0X1U" alt="Screenshot">
 
 **Nice** and simple, but what will happen with more complex examples? Let's have a look at drums, pad, and bass with exactly the same automation and see what happens.
 
