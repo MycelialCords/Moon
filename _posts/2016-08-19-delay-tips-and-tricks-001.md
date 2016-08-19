@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Delay Tips and Tricks 001 - Automation
-date: {}
-excerpt: testest123
+date:
+  'Fri Aug 19 2016 02:00:00 GMT+0200': null
+excerpt: Automating delay parameters is a great way to bring life to your sounds.
 tags:
   - delay
   - music production
@@ -45,54 +46,26 @@ oncontextmenu="event.preventDefault()">
 
 **Nice** and simple, but what will happen with more complex examples? Let's have a look at drums, pad, and bass with the same automation and see what happens.
 
-**Drums Clean**
-<audio controls preload="none"
-oncontextmenu="event.preventDefault()">		
-<source src="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHoYWU1Mjc1VHQtZGc" type="audio/wav">
-</audio>
+**Note: I've ommited dry examples and seconde delay automation to aviod cluttering the post. Head to my [drive](https://drive.google.com/open?id=0BxDTpmbDjqHobW82WV9lMGhzelE) to see the rest.
+
 **Drums Delay 1**
 <audio controls preload="none"
 oncontextmenu="event.preventDefault()">		
 <source src="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHoUUxmRnllQnZqbGs" type="audio/wav">
-</audio>
-**Drums Delay 2**
-<audio controls preload="none"
-oncontextmenu="event.preventDefault()">		
-<source src="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHoTE5NSDA5Yk1ESmM" type="audio/wav">
-</audio>
-**Pad Clean**
-<audio controls preload="none"
-oncontextmenu="event.preventDefault()">		
-<source src="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHoYzdqQVVHVlVhUGc" type="audio/wav">
 </audio>
 **Pad Delay 1**
 <audio controls preload="none"
 oncontextmenu="event.preventDefault()">		
 <source src="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHoMmlYeEFRYVI3Zjg" type="audio/wav">
 </audio>
-**Pad Delay 2**
-<audio controls preload="none"
-oncontextmenu="event.preventDefault()">		
-<source src="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHoLVlSM1ZNdk5MZHc" type="audio/wav">
-</audio>
-**Bass Clean**
-<audio controls preload="none"
-oncontextmenu="event.preventDefault()">		
-<source src="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHoaTJELVprOFZvR0U" type="audio/wav">
-</audio>
 **Bass Delay 1**
 <audio controls preload="none"
 oncontextmenu="event.preventDefault()">		
 <source src="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHoRUhCOFZqbnQxZEE" type="audio/wav">
 </audio>
-**Bass Delay 2**
-<audio controls preload="none"
-oncontextmenu="event.preventDefault()">		
-<source src="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHoaXYxd0NDWGFqUUk" type="audio/wav">
-</audio>
 
 **Automation** by itself isn't anything new but at the same time, possibilities are pretty much endless. So I hope that sharing these examples inspired somebody to use a delay (or any other effect) in a new way. I'm eager to hear your creations. 
 
-**Also**, feel free to download all the patches, the Reason file and audio loops here and use them in your productions.
+**Also**, feel free to [download](https://drive.google.com/open?id=0BxDTpmbDjqHobW82WV9lMGhzelE) all the patches, the Reason file and audio loops and use them in your productions.
 
 #### Mycelial Cords
