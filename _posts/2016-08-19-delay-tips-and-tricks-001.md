@@ -47,7 +47,7 @@ oncontextmenu="event.preventDefault()">
 
 **Nice** and simple, but what will happen with more complex examples? Let's have a look at drums, pad, and bass with exactly the same automation and see what happens.
 
-**Note: I've ommited dry examples and second delay automation to aviod cluttering the post. Head to my [drive](https://drive.google.com/open?id=0BxDTpmbDjqHobW82WV9lMGhzelE) to see the rest.
+**Note: I've ommited dry examples and second delay automation to aviod cluttering the post. Head to my [drive](https://drive.google.com/open?id=0BxDTpmbDjqHobW82WV9lMGhzelE) to see the rest.**
 
 **Drums Delay 1**
 <audio controls preload="none"
