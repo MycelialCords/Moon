@@ -40,7 +40,10 @@ oncontextmenu="event.preventDefault()">
 </audio>
 
 **That's** how it looks on the screen.
-![]({{site.baseurl}}/https://drive.google.com/file/d/0BxDTpmbDjqHod0I5ampxTjJ0X1U/view?usp=sharing)
+<figure>
+	<a href="https://drive.google.com/file/d/0BxDTpmbDjqHod0I5ampxTjJ0X1U/view?usp=sharing"><img src="https://drive.google.com/file/d/0BxDTpmbDjqHod0I5ampxTjJ0X1U/view?usp=sharing"></a>
+	<figcaption><a href="https://drive.google.com/file/d/0BxDTpmbDjqHod0I5ampxTjJ0X1U/view?usp=sharing" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+</figure>
 
 **Nice** and simple, but what will happen with more complex examples? Let's have a look at drums, pad, and bass with exactly the same automation and see what happens.
 
