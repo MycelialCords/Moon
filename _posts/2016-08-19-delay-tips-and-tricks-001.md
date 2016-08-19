@@ -42,7 +42,7 @@ oncontextmenu="event.preventDefault()">
 **That's** how it looks on the screen.
 <figure>
 	<a href="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHod0I5ampxTjJ0X1U"><img src="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHod0I5ampxTjJ0X1U"></a>
-	<figcaption><a href="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHod0I5ampxTjJ0X1U" title="Delay Automation Screesdsanshot">Delay Automation Screenshot</a>.</figcaption>
+	<figcaption><a href="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHod0I5ampxTjJ0X1U" title="Delay Automation Screenshot">Delay Ausstomation Screenshot</a>.</figcaption>
 </figure>
 <img src="https://drive.google.com/uc?export=download&id=0BxDTpmbDjqHod0I5ampxTjJ0X1U">
 
