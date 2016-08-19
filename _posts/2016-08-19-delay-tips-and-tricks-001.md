@@ -40,7 +40,10 @@ oncontextmenu="event.preventDefault()">
 </audio>
 
 **That's** how it looks on the screen.
-<img src="https://drive.google.com/open?id=0BxDTpmbDjqHod0I5ampxTjJ0X1U">
+<figure>
+	<a href="https://drive.google.com/open?id=0BxDTpmbDjqHod0I5ampxTjJ0X1U"><img src="https://drive.google.com/open?id=0BxDTpmbDjqHod0I5ampxTjJ0X1U"></a>
+	<figcaption><a href="https://drive.google.com/open?id=0BxDTpmbDjqHod0I5ampxTjJ0X1U" title="Delay Automation Screenshot">Delay Automation Screenshot</a>.</figcaption>
+</figure>
 
 **Nice** and simple, but what will happen with more complex examples? Let's have a look at drums, pad, and bass with exactly the same automation and see what happens.
 
