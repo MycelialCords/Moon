@@ -25,21 +25,18 @@ comments: true
 oncontextmenu="event.preventDefault()">		
 <source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHoUW52QVdUcFFWUmc" type="audio/wav">
 </audio>
-https://drive.google.com/open?id=0BxDTpmbDjqHoUW52QVdUcFFWUmc
 
 **I'd** like it to be a little bit longer, so I'm going to increase sustain to -30dB. 
 <audio controls preload="none"
 oncontextmenu="event.preventDefault()">		
 <source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHoMFluQUhseWJvQVk" type="audio/wav">
 </audio>
-https://drive.google.com/open?id=0BxDTpmbDjqHoMFluQUhseWJvQVk
 
 **To** make it more interesting, I'm gonna add fast modulation (LFO1-20Hz to Static Mod 100%) and another static oscillator, to give it more body, as well as moderate compression.
 <audio controls preload="none"
 oncontextmenu="event.preventDefault()">		
 <source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHoX2tIX0Ryamo5dDA" type="audio/wav">
 </audio>
-https://drive.google.com/open?id=0BxDTpmbDjqHoX2tIX0Ryamo5dDA
 
 **I** begin to like the result, it's going to be a nice basis for futher manipulation and processing.
 By the way, if you want to keep the clicks less random, just export the audio and use a sampler to play it back.
@@ -49,7 +46,6 @@ By the way, if you want to keep the clicks less random, just export the audio an
 oncontextmenu="event.preventDefault()">		
 <source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHoVkR4VnA2OTUwQkU" type="audio/wav">
 </audio>
-https://drive.google.com/open?id=0BxDTpmbDjqHoVkR4VnA2OTUwQkU
 
 **Let's** leave the patch as it is and further process it with distortion and a little bit of delay. 
 Modules used: Scream 4 Distortion => The Echo => Scream 4 Digital.
@@ -57,7 +53,6 @@ Modules used: Scream 4 Distortion => The Echo => Scream 4 Digital.
 oncontextmenu="event.preventDefault()">		
 <source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHoT29YTEZldDYxSEk" type="audio/wav">
 </audio>
-https://drive.google.com/open?id=0BxDTpmbDjqHoT29YTEZldDYxSEk
 
 **Feel** free to use any of the sounds and patches in your own tracks. To download everything I used here, as well as some free loops and samples, head to my [drive](https://drive.google.com/open?id=0BxDTpmbDjqHoQ0R2NExPWjB5c28). I'd be more that happy to hear what you come up with.
 
