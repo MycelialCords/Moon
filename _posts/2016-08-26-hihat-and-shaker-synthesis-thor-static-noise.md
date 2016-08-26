@@ -39,7 +39,7 @@ By the way, if you want to keep the clicks less random, just export the audio an
 Modules used: Scream 4 Distortion => The Echo => Scream 4 Digital.
 /Sound Final Processing/
 
-**Feel** free to use any of the sounds and patches in your own tracks. To download everything I used here head to my [drive](https://drive.google.com/open?id=0BxDTpmbDjqHoQ0R2NExPWjB5c28). I'd be more that happy to hear what you come up with. Also, if you don't use Reason but 
+**Feel** free to use any of the sounds and patches in your own tracks. To download everything I used here, as well as some free loops and samples, head to my [drive](https://drive.google.com/open?id=0BxDTpmbDjqHoQ0R2NExPWjB5c28). I'd be more that happy to hear what you come up with.
 
 **Mycelial Cords**
 
