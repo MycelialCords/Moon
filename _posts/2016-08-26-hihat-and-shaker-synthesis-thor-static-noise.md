@@ -1,9 +1,9 @@
 ---
-published: false
 layout: post
+title: Glitch Shaker Synthesis - Thor Static Noise
 date:
   'Fri Aug 26 2016 02:00:00 GMT+0200': null
-excerpt: Automating delay parameters is a great way to bring life to your sounds.
+excerpt: How to synthesis glitch shaker-like sound
 tags:
   - shaker synthesis
   - glitch percussion
@@ -17,6 +17,7 @@ tags:
   - free loops
   - free samples
 comments: true
+published: true
 ---
 **My** faorite Reason synth is Thor. It's capable of producing great variety of sounds. Combined with buildt-in FXs you can get pretty much any sounds with smart tweaking. Recently I began to synthesise some of my percussive sound and decided to share one of them using static noise. I'd like to show you a simple way you can turn normal static noise into wide, glitched shaker type of sound. It's gonna work with any type of electronic music, from obscure noise techno to hypnotic Hip-Hop grooves. 
 
