@@ -7,10 +7,15 @@ published: false
 
 **In** this case, gate is the important output but note can also find it's application, hence it's also connected in the attached patches. However, I'm only making a use of gate. Value of CV output is controlled through note velocity. What happens next is decided through combinator. The amazing thing is that few RPG-8s can influence one another and unpredictable things happen - I'm not even talking about the mesmerizing movement of all the knobs and values...
 
-**Anyway**, let's get to actual examples. I'm going to start with filtered sawtooth that plays one note to show the power of this technique. Then I'm going to provide more musical examples as well as share with you a small reFill with premade routings and few loops. 
+**Anyway**, let's get to actual examples. I'm going to start with filtered sawtooth that plays one note to show the power of this technique. Then I'm going to provide more musical examples. You'll find patches, loops and Reason project on my drive.
+
+**Note:** velocity works from 1 to 64. Changing polarity in combinator doesn't help so I guess it's something in the follower. Anyway, if you figure it out, let me know.
 
 **Filtered Sawtooth**
-Audio
+<audio controls preload="none"
+oncontextmenu="event.preventDefault()">		
+<source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHoR0lvaUtPdlZlcDA" type="audio/wav">
+</audio>
 
 **Basic Example Without Modulation**
 <audio controls preload="none"
@@ -28,19 +33,13 @@ oncontextmenu="event.preventDefault()">
 oncontextmenu="event.preventDefault()">		
 <source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHobG9DWjhKeVJVSjQ" type="audio/wav">
 </audio>
-**Advanced Example Without Modulation**
+**Advanced Example With Modulation**
 <audio controls preload="none"
 oncontextmenu="event.preventDefault()">		
 <source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHoMWNXb3E2aGtWeHM" type="audio/wav">
 </audio>
 
-**Crazy Example 1**
-<audio controls preload="none"
-oncontextmenu="event.preventDefault()">		
-<source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHoUW52QVdUcFFWUmc" type="audio/wav">
-</audio>
-
-**I'll** be more than happy to hear what you think of it.
+**I'll** be more than happy to hear what you think of it. Also, send me any of your music. I'm also open for collaboration.
 
 Have a nice one,
 **Mycelial Cords**
