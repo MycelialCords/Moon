@@ -3,7 +3,7 @@ published: false
 layout: post
 date:
   'Fri Sep 02 2016 02:00:00 GMT+0200': null
-excerpt: How to synthesis glitch shaker-like sound
+excerpt: Use RPG-8 as a complex step LFO
 tags:
   - >-
     RPG 8 - Reason Arp - Arpeggiator LFO - RPG 8 Advanced Tricks - RPG 8 Reason
