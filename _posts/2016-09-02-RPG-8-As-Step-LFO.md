@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 date:
   'Fri Sep 02 2016 02:00:00 GMT+0200': null
@@ -9,6 +8,7 @@ tags:
     RPG 8 - Reason Arp - Arpeggiator LFO - RPG 8 Advanced Tricks - RPG 8 Reason
     Tips and Tricks - Reason CV Tricks - Reason CV Routing - Reason Tutorial
 comments: true
+published: true
 ---
 **With** the power of CV one can come up with ideas and solutions without an end. To exploit it further, I made a promise to myself that each week I'll deliberatry think of a new way to route Reason stock devices. RPG-8 has been on my list for some time and I coulnd't be happier after setting it up as a complex step-LFO. Here's how I've done that.
 
