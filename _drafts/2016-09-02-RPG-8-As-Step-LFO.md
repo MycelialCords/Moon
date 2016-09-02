@@ -12,12 +12,35 @@ published: false
 **Filtered Sawtooth**
 Audio
 
-**Basic Example 1**
+**Basic Example Without Modulation**
+<audio controls preload="none"
+oncontextmenu="event.preventDefault()">		
+<source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHoZmtsVE5ZcFQ3b2M" type="audio/wav">
+</audio>
+**Basic Example With Modulation**
+<audio controls preload="none"
+oncontextmenu="event.preventDefault()">		
+<source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHoUC1xTm5uUXpHNjQ" type="audio/wav">
+</audio>
 
-**Advanced Example 1**
+**Advanced Example Without Modulation**
+<audio controls preload="none"
+oncontextmenu="event.preventDefault()">		
+<source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHobG9DWjhKeVJVSjQ" type="audio/wav">
+</audio>
+**Advanced Example Without Modulation**
+<audio controls preload="none"
+oncontextmenu="event.preventDefault()">		
+<source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHoMWNXb3E2aGtWeHM" type="audio/wav">
+</audio>
 
 **Crazy Example 1**
+<audio controls preload="none"
+oncontextmenu="event.preventDefault()">		
+<source src="https://docs.google.com/uc?export=download&id=0BxDTpmbDjqHoUW52QVdUcFFWUmc" type="audio/wav">
+</audio>
 
-**I'll** be more than happy to hear what you think of it and what you made with it.
+**I'll** be more than happy to hear what you think of it.
 
+Have a nice one,
 **Mycelial Cords**
