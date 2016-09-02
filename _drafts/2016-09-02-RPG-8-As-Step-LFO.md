@@ -7,7 +7,7 @@ published: false
 
 **In** this case, gate is the important output but note can also find it's application, hence it's also connected in the attached patches. However, I'm only making a use of gate. Value of CV output is controlled through note velocity. What happens next is decided through combinator. The amazing thing is that few RPG-8s can influence one another and unpredictable things happen - I'm not even talking about the mesmerizing movement of all the knobs and values...
 
-**Anyway**, let's get to actual examples. I'm going to start with filtered sawtooth that plays one note to show the power of this technique. Then I'm going to provide more musical examples. You'll find patches, loops and Reason project on my drive.
+**Anyway**, let's get to actual examples. I'm going to start with filtered sawtooth that plays one note to show the power of this technique. Then I'm going to provide more musical examples. You'll find patches, loops and Reason project on my [drive](https://drive.google.com/open?id=0BxDTpmbDjqHoV3FCeFdRUHdyc1E).
 
 **Note:** velocity works from 1 to 64. Changing polarity in combinator doesn't help so I guess it's something in the follower. Anyway, if you figure it out, let me know.
 
